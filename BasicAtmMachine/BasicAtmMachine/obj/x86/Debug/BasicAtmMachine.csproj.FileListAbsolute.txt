@@ -1,0 +1,15 @@
+E:\csharp_series\07_Lists\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.exe
+E:\csharp_series\07_Lists\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.pdb
+E:\csharp_series\07_Lists\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.exe
+E:\csharp_series\07_Lists\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.pdb
+E:\csharp_series\07_Lists\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.csprojResolveAssemblyReference.cache
+E:\csharp_series\MiniProjects\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.csprojResolveAssemblyReference.cache
+E:\csharp_series\MiniProjects\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.exe
+E:\csharp_series\MiniProjects\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.pdb
+E:\csharp_series\MiniProjects\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.exe
+E:\csharp_series\MiniProjects\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.pdb
+E:\AtmMachine_C#\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.exe
+E:\AtmMachine_C#\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.pdb
+E:\AtmMachine_C#\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.exe
+E:\AtmMachine_C#\BasicAtmMachine\BasicAtmMachine\bin\Debug\BasicAtmMachine.pdb
+E:\AtmMachine_C#\BasicAtmMachine\BasicAtmMachine\obj\x86\Debug\BasicAtmMachine.csprojResolveAssemblyReference.cache
